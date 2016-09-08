@@ -1,5 +1,7 @@
 def add_contact():
     '''
-    This def will add permutations to the contacts dictionary
+    This def will add permutations to the contact dictionary
     '''
-    print('adding contact')
+
+    name = 'a'
+    
